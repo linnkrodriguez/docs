@@ -223,7 +223,7 @@
     "mdast-util-to-hast": "^13.2.1",
     "mdast-util-to-markdown": "2.1.2",
     "mdast-util-to-string": "^4.0.0",
-    "next": "^16.3.8",
+    "next": "^16.4.1",
     "parse5": "8.0.1",
     "quick-lru": "7.0.1",
     "react": "^19.2.5",
@@ -260,7 +260,7 @@
     "@eslint/js": "^9.39.3",
     "@github/markdownlint-github": "^0.6.3",
     "@graphql-inspector/core": "^8.0.0",
-    "@graphql-tools/load": "^8.1.8",
+    "@graphql-tools/load": "^8.1.21",
     "@octokit/graphql": "9.0.1",
     "@octokit/plugin-retry": "8.0.1",
     "@octokit/request-error": "7.0.0",
@@ -291,7 +291,7 @@
     "change-case": "^5.4.4",
     "commander": "^15.0.0",
     "cross-env": "^10.1.0",
-    "csv-parse": "7.0.0",
+    "csv-parse": "7.0.2",
     "domhandler": "^6.0.1",
     "eslint": "^9.39.3",
     "eslint-config-prettier": "^10.1.8",
@@ -331,7 +331,7 @@
     "start-server-and-test": "^3.0.0",
     "typescript": "^6.0.2",
     "unist-util-remove": "^4.0.0",
-    "vitest": "^5.0.0",
+    "vitest": "^5.1.0",
     "website-scraper": "^6.0.0"
   },
   "overrides": {
@@ -347,16 +347,16 @@
     "@opentelemetry/otlp-transformer": {
       "protobufjs": "^8.6.5"
     },
-    "undici": "^6.29.0",
+    "undici": "^6.29.1",
     "cheerio": {
       "undici": "^7.29.0"
     },
-    "markdown-it": "^14.3.2",
+    "markdown-it": "^14.3.3",
     "minimatch@10": {
       "brace-expansion": "^5.0.8"
     },
     "sharp": "$sharp",
-    "fast-uri": "^3.1.8"
+    "fast-uri": "^3.1.9"
   },
   "engines": {
     "node": "^24 || ^26"
